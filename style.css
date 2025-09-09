@@ -248,6 +248,9 @@ letter-spacing: 5px;
     .menu div h3 {
         font-size: 1.5em;
         margin-bottom: 10px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
     }
 
     .menu div nav a {
@@ -325,3 +328,4 @@ letter-spacing: 5px;
         width: 150px;
     }
 }
+
