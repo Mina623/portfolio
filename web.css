@@ -276,6 +276,9 @@ color: #BE95C4;
         font-size: 1.8em;
         margin-top: 10vh;
     }
+    .head h1 {
+        letter-spacing: 2px;
+    }
 
     .do h1 {
         font-size: 1.8em;
